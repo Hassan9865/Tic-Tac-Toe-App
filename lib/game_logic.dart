@@ -1,7 +1,7 @@
 class Player {
   static const x = "X";
   static const o = "O";
-  static const Emty = "";
+  static const emty = "";
 }
 
 class Game {
@@ -10,7 +10,7 @@ class Game {
 
   List<String>? board;
   static List<String>? initGameBoard() =>
-      List.generate(boardLenght, (index) => Player.Emty);
+      List.generate(boardLenght, (index) => Player.emty);
 
   bool winnerCheck(
       String player, int index, List<int> scoreBoard, int gridsize) {
