@@ -1,16 +1,27 @@
-# tic_tac_toe_app
+# Tic Tac Toe – Flutter Game App
 
-A new Flutter project.
+A clean, animated, and responsive Flutter Tic Tac Toe game with sound effects, Lottie splash screen, and winning animations. Perfect for beginners and developers looking for a quick-publish game or a learning resource.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔥 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Lottie animated splash screen
+- Real-time X and O turn indicator
+- Win and draw detection
+- Firework animation on win
+- Sound effects on win/draw
+- Simple, clean UI
+- Organized Flutter code
+- Easy to reskin and customize
+- Works on Android and iOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Hassan9865/Tic-Tac-Toe-App.git
+cd Tic-Tac-Toe-App

@@ -17,9 +17,11 @@ class _SplashViewState extends State<SplashView> {
   void initState() {
     super.initState();
     Timer(
-        Duration(seconds: 4),
-        () => Navigator.of(context).pushReplacement(MaterialPageRoute(
-            builder: (BuildContext context) => TicTacToeGame())));
+      Duration(seconds: 5),
+      () => Navigator.of(context).pushReplacement(
+        MaterialPageRoute(builder: (BuildContext context) => TicTacToeGame()),
+      ),
+    );
   }
 
   @override
@@ -31,8 +33,9 @@ class _SplashViewState extends State<SplashView> {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           Center(
-            child:
-                Lottie.asset('assets/animation/Animation - 1744872847915.json'),
+            child: Lottie.asset(
+              'assets/animation/Animation - 1744872847915.json',
+            ),
           ),
         ],
       ),
