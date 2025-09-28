@@ -1,22 +1,4 @@
-# Tic Tac Toe – Flutter Game App
-
-A clean, animated, and responsive Flutter Tic Tac Toe game with sound effects, Lottie splash screen, and winning animations. Perfect for beginners and developers looking for a quick-publish game or a learning resource.
-
----
-
-## 🔥 Features
-
-- Lottie animated splash screen
-- Real-time X and O turn indicator
-- Win and draw detection
-- Firework animation on win
-- Sound effects on win/draw
-- Simple, clean UI
-- Organized Flutter code
-- Easy to reskin and customize
-- Works on Android and iOS
-
----# 🎮 Tic Tac Toe – Flutter Game App with Lottie Animations & Sound Effects
+# 🎮 Tic Tac Toe – Flutter Game App with Lottie Animations & Sound Effects
 
 A minimal and elegant Flutter-based **Tic Tac Toe** game designed with engaging **Lottie animations**, interactive **sound effects**, and clean game logic. Ideal for Flutter learners and developers who want to publish a lightweight casual game.
 
