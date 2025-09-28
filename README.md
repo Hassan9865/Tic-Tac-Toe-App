@@ -114,14 +114,3 @@ This is a **local single-player game**. Online or multiplayer support is not inc
 
 ## 👨‍💻 Author
 Developed by Syed Hassan Raza
-
-
-
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Hassan9865/Tic-Tac-Toe-App.git
-cd Tic-Tac-Toe-App
